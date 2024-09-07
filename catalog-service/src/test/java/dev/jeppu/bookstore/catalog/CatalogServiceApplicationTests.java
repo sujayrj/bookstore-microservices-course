@@ -14,5 +14,4 @@ class CatalogServiceApplicationTests {
         test method
          */
     }
-
 }
